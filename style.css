@@ -61,6 +61,14 @@ body {
     border: 2px solid #eaeaea;
     margin-bottom: 20px;
   }
+
+  .portada 
+  {
+    background-color: var(--background-table);
+    padding: 20px;
+    border: none;
+    margin-bottom: 40px;
+  }
   
   /* Estilo de la sección de pie de página */
   footer {
